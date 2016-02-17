@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://tornshirts.github.io
 title: tornshirts
-tagline: thoughts (occasionally coherent)
-description: 
+tagline: 
+description: thoughts (occasionally coherent)
 paginate: 5
