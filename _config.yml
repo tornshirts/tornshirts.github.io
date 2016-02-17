@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tornshirts.github.io
+title: tornshirts
+tagline: thoughts (occasionally coherent)
+description: My awesome new site
+paginate: 5
